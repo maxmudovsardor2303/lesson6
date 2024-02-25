@@ -1,0 +1,165 @@
+.main{
+    width: 100%;
+    height: 390px;
+    background-image: url(../images/IMAGE\ \(1\).png);
+    .main-item{
+        padding: 150px 50px;
+    }
+    h1{
+        width: 500px;
+        color: #fff;
+        font-size: 44px;
+        text-align: center;
+        margin-left: 420px;
+
+    }
+    p{
+        color:#fff;
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+.main-box{
+    width: 100%;
+    height: 290px;
+    background: #FEFEC9;
+    position: relative;
+
+
+
+    p{
+        width: 940px;
+        text-align: center;
+        padding: 60px 80px;
+        margin-left: 200px;
+    }
+    button{
+        width: 160px;
+        height: 53px;
+        font-size: 16px;
+        background: #FEFEC9;
+        position: absolute;
+        top: 50%;
+        left: 40%;
+
+    }
+}
+.main-desc{
+    width: 100%;
+    height: 625px;
+    margin-top: 50px;
+    .main-desc0{
+        display: flex;
+        gap: 30px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+       
+    }
+    
+    h1{
+        text-align: center;
+    }
+    img{
+        width: 300px;
+        height: 219px;
+    }
+    h4{
+        text-align: center;
+        margin-top: 30px;
+    }
+    p{
+        width: 297px;
+        height: 66px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .main-desc1{
+        gap: 30px;
+    }
+}
+.main-general{
+    width: 100%;
+    // height: 1469px;
+    background:  #F5F5F5;
+    ;
+
+    .main-general2{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        padding: 69px 150px;
+    }
+    h1{
+        text-align: center;
+        font-size: 23px;
+        line-height: 36px;
+    }
+     
+    .main-general1{
+        width: 300px;
+        height: 300px;
+        text-align: center;
+        background: white;
+        margin-top: 30px;
+    }
+    
+}
+
+.main-origen{
+    width: 100%;
+    height: 480px;
+    h1{
+        text-align: center;
+        margin-top: 50px;
+    }
+    .main-origen1{
+        display: flex;
+        text-align: center;
+        gap: 50px;
+        margin-left: 200px;
+        margin-top: 100px;
+        h3{
+            margin-top: 20px;
+        }
+        p{
+            margin-top: 20px;
+        }
+        .icon{
+            margin-top: 20px;
+        }
+    }
+}
+
+.main-boxs{
+    width: 100%;
+    height: 511px;
+    background: #F5F5F5;
+
+    
+    .img2{
+        margin-left: 690px;
+        margin-top: 80px;
+        
+    }
+    .main-box1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .main-boxsem{
+        p{
+            width: 250px;
+            height: 99px;
+            text-align: center;
+            gap: 80px;
+            margin-top: 50px;
+        }
+        .img1{
+            margin-left: 90px;
+        }
+    }
+    
+}

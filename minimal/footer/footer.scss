@@ -1,30 +1,67 @@
 .footer{
     width: 100%;
-    height: 391px;
-    .box{
-        width: 100%;
-        height: 280px;
-        background: #FEFEC9;
+    height: 517px;
+    background: #7EC4BD;
+    font-size: 15px;
+    i{
+        font-size: 70px;
+        color: #fff;
+    }
+    h1{
+        text-align: center;
         
     }
-    
-    p{
-        width: 800px;
-        text-align: center;
-        margin-left: 300px;
-        font-size: 15px;
+    .footer2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 70px;
+        gap: 100px;
+        
+        h4{
+            margin-top: 30px;
+        }
+        p{
+            margin-top: 30px;
+        }
     }
-    button{
-        width: 150px;
-        height: 50px;
-        font-size: 15px;
-        margin-left: 600px;
-        margin-top: 30px;
-    }
-    
 }
-.desc{
+
+.footer-item {
     width: 100%;
-    height: 300px;
-    margin-top: 300px;
+    height: 640px;
+    background: #000000;
+    .footer-box{
+        display: flex;
+        flex-direction: column;
+        form{
+            display: flex;
+            flex-direction: column;
+            margin-top: 90px;
+            
+        }
+    }
 }
+input{
+    width: 564px;
+    height: 57px;
+    margin-left: 300px;
+    background: #545858;
+   
+
+}
+textarea{
+    width: 264px;
+    height: 57px;
+    margin-left: 300px;
+    background: #6a7272;
+}
+button{
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    margin-left: 450px;
+    background: #596161;
+}
+
+

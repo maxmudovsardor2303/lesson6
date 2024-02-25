@@ -1,1 +1,150 @@
-/*# sourceMappingURL=main.css.map */
+.main {
+  width: 100%;
+  height: 390px;
+  background-image: url(../images/IMAGE\ \(1\).png);
+}
+.main .main-item {
+  padding: 150px 50px;
+}
+.main h1 {
+  width: 500px;
+  color: #fff;
+  font-size: 44px;
+  text-align: center;
+  margin-left: 420px;
+}
+.main p {
+  color: #fff;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.main-box {
+  width: 100%;
+  height: 290px;
+  background: #FEFEC9;
+  position: relative;
+}
+.main-box p {
+  width: 940px;
+  text-align: center;
+  padding: 60px 80px;
+  margin-left: 200px;
+}
+.main-box button {
+  width: 160px;
+  height: 53px;
+  font-size: 16px;
+  background: #FEFEC9;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+
+.main-desc {
+  width: 100%;
+  height: 625px;
+  margin-top: 50px;
+}
+.main-desc .main-desc0 {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.main-desc h1 {
+  text-align: center;
+}
+.main-desc img {
+  width: 300px;
+  height: 219px;
+}
+.main-desc h4 {
+  text-align: center;
+  margin-top: 30px;
+}
+.main-desc p {
+  width: 297px;
+  height: 66px;
+  text-align: center;
+  margin-top: 30px;
+}
+.main-desc .main-desc1 {
+  gap: 30px;
+}
+
+.main-general {
+  width: 100%;
+  background: #F5F5F5;
+}
+.main-general .main-general2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 69px 150px;
+}
+.main-general h1 {
+  text-align: center;
+  font-size: 23px;
+  line-height: 36px;
+}
+.main-general .main-general1 {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  background: white;
+  margin-top: 30px;
+}
+
+.main-origen {
+  width: 100%;
+  height: 480px;
+}
+.main-origen h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+.main-origen .main-origen1 {
+  display: flex;
+  text-align: center;
+  gap: 50px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.main-origen .main-origen1 h3 {
+  margin-top: 20px;
+}
+.main-origen .main-origen1 p {
+  margin-top: 20px;
+}
+.main-origen .main-origen1 .icon {
+  margin-top: 20px;
+}
+
+.main-boxs {
+  width: 100%;
+  height: 511px;
+  background: #F5F5F5;
+}
+.main-boxs .img2 {
+  margin-left: 690px;
+  margin-top: 80px;
+}
+.main-boxs .main-box1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-boxs .main-boxsem p {
+  width: 250px;
+  height: 99px;
+  text-align: center;
+  gap: 80px;
+  margin-top: 50px;
+}
+.main-boxs .main-boxsem .img1 {
+  margin-left: 90px;
+}/*# sourceMappingURL=main.css.map */
